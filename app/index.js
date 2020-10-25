@@ -1,6 +1,5 @@
 angular.module('primeiraApp', [
-  //'ui.router'
-  '@uirouter',
+  'ui.router',
   'ngAnimate',
   'toastr'
 ])
