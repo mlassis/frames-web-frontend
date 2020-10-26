@@ -1,3 +1,4 @@
+const fs = require('graceful-fs');
 const gulp = require('gulp')
 const util = require('gulp-util')
 const sequence = require('run-sequence')
